@@ -1,0 +1,53 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+}
+nav
+{
+    position: relative;
+    margin: auto;
+    width: 100%;
+    height: auto;
+    background: rgb(128, 128, 128);
+}
+nav ul
+{
+    position: relative;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+nav ul li
+{
+    display: inline-block;
+    width: 24%;
+    line-height: 50px;
+    list-style: none;
+}
+nav ul li a
+{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 25px;
+}
+nav ul li a:hover
+{
+    color: black;
+}
+h1
+{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    margin: 30px;
+}
+div
+{
+    text-align: center;
+}
+button
+{
+    color: red;
+}

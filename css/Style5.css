@@ -1,0 +1,21 @@
+.container {
+    width: 80%;
+    margin: 40px auto;
+    background-color: aliceblue;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.col {
+    width: 45%;
+    margin: 10px;
+    background-color: #ccc;
+    padding: 20px;
+    border: 1px solid #aaa;
+}
